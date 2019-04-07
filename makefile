@@ -119,6 +119,8 @@ CPPUTEST_CXXFLAGS += -Wno-c++98-compat
 # commented out example specifies math library
 #LD_LIBRARIES += -lm
 
+CPPUTEST_USE_GCOV = Y
+
 # Look at $(CPPUTEST_HOME)/build/MakefileWorker.mk for more controls
 
 include $(CPPUTEST_HOME)/build/MakefileWorker.mk
