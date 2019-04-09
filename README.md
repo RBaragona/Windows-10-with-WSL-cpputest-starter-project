@@ -63,7 +63,7 @@ The Cpputest makefile resides in the local directory and is configured based on 
 **_Note_**: `make gcov` is used to make with coverage report, use `make all` if coverage report is not desired.
 
 ### Via a batch file
-In essence, runs the same commands from the Windows cmd/Powershell manual steps.  See [cpputest_runner.bat](CA_Headphones\CA_Headphones\MDK-ARM\cpputest_runner.bat)
+In essence, runs the same commands from the Windows cmd/Powershell manual steps.  See [cpputest_runner.bat](./cpputest_runner.bat)
 
 # Sources
 1. Forked from James Grenning: https://github.com/jwgrenning/cpputest-starter-project
